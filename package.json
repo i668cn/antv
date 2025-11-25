@@ -1,5 +1,5 @@
 {
-  "name": "AnTv",
+  "name": "moontv",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -21,7 +21,7 @@
   "@dnd-kit/modifiers": "^9.0.0",
   "@dnd-kit/utilities": "^3.2.2",
   "sweetalert2": "^11.11.0"
-},
+ },
   "devDependencies": {
     "typescript": "5.6.3",
     "@types/node": "^22",
